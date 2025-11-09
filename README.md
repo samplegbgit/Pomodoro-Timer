@@ -5,3 +5,7 @@
 
 ## Day 2
 - Added start, pause, reset functionality.
+
+## Day 3
+- Added break session + sound alert.
+
